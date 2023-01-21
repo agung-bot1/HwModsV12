@@ -25,15 +25,15 @@ global.linkgrupss = "https://chat.whatsapp.com/Dnxdj6TCWCB1UJV7kvhxhx"
 global.email = 'lixxzy3@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Agung' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'Agung' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289623296131'] // ubah aja pake nomor lu
-global.premium = ['6289623296131'] // ubah aja pake nomor lu
+global.owner = ['62895406419364'] // ubah aja pake nomor lu
+global.premium = ['62895406419364'] // ubah aja pake nomor lu
 global.packname = 'HW MODS WA' // ubah aja
-global.ownerr = ['HW MODS WA'] // ubaha aja
+global.ownerr = ['Agung'] // ubaha aja
 global.author = 'HW MODS WA' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
