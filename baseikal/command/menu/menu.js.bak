@@ -1,5 +1,5 @@
 const menu =  ` 
-° Owner  : HW MODS WA
+° Owner  : Agung
 ° Version : 12
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -38,5 +38,5 @@ const menu =  ` 
 ┣❏ Promote 628xx
 ┣❏ Demote 628xx
 ┗━━⊱
-HW MODS WA`
+Agung`
 exports.menu = menu
